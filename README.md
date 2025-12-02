@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AmineNeg/AmineNeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projet : JUIL25-BDE-CRYPTO
+Projet développé dans l'organisation DataScientest-Studio.  
+(Repo privé, mais voici une présentation)
 
-Here are some ideas to get you started:
+- Pipeline Airflow
+- API Python
+- Monitoring Prometheus/Grafana
+- App Streamlit
+- Docker & docker-compose
+- Tests automatisés
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Repo privé : https://github.com/DataScientest-Studio/JUIL25-BDE-CRYPTO
