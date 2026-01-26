@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 📌 Projet : JUIL25-BDE-CRYPTO
 Projet développé dans l'organisation DataScientest-Studio.  
 (Repo privé, mais voici une présentation)
