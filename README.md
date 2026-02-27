@@ -1,5 +1,5 @@
-## 📌 Projet : JUIL25-BDE-CRYPTO
-Projet développé dans l'organisation DataScientest-Studio.  
+## 📌 Projet CRYPTO
+  Projet développé dans l'organisation Liora.  
 (Repo privé, mais voici une présentation)
 
 - Pipeline Airflow
